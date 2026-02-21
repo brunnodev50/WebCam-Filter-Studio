@@ -170,8 +170,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Brunno**
 - GitHub: [@brunnodev50](https://github.com/brunnodev50)
-- LinkedIn: [Brunno Henrique]([https://linkedin.com/in/seu-perfi](https://www.linkedin.com/in/brunno-henrique-vilas-boas-4a514b14a/)l)
-
 ## 🙏 Agradecimentos
 
 - [Bootstrap](https://getbootstrap.com/) - Framework CSS
