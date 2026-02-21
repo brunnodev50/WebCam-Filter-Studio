@@ -64,7 +64,7 @@ WebCam Filter Studio é uma aplicação web moderna e responsiva que permite apl
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/webcam-filter-studio.git
+git clone https://github.com/brunnodev50/webcam-filter-studio.git
 ```
 
 2. Navegue até o diretório
@@ -169,8 +169,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Brunno**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
+- GitHub: [@brunnodev50](https://github.com/brunnodev50)
+- LinkedIn: [Brunno Henrique]([https://linkedin.com/in/seu-perfi](https://www.linkedin.com/in/brunno-henrique-vilas-boas-4a514b14a/)l)
 
 ## 🙏 Agradecimentos
 
